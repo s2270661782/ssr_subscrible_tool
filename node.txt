@@ -1,9 +1,8 @@
-＃节点列表
+＃节点 列表 
 
 ＃joyo.ga节点1
 
 ssr://MTY3LjE3OS4xMDIuMTc6MTAwODY6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpWRmt6Tmpr
 
 ＃joyo.ga节点2
-
 ssr://NDUuMzIuNjkuMjM4OjEwMDg2Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpWRmt6Tmpr
